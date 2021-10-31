@@ -4,7 +4,9 @@ Created on Tue Jan  5 11:35:18 2021
 
 @author: TAURET
 """
-
+"""
+Crearemos un programa que convierta de pesos colombianos a dólares
+"""
 def conversor(tipo_pesos, valor_dolar):
     pesos = input("Ingrese su cantidad en pesos" + tipo_pesos + ": ")
     pesos = float(pesos)
@@ -29,7 +31,7 @@ Elige tu moneda local: """
 opcion = input(menu)
 
 if opcion == '1':
-   conversor(" colombianos", 3437)
+   conversor(" colombianos", 3774)
 elif opcion == '2':
     conversor(" mexicanos", 19.77 )
 elif opcion == '3':
