@@ -19,7 +19,7 @@ Created on Wed Jan  6 12:39:39 2021
 
 
 def main():
-    LIM = 1000000
+    LIM = 10000
     
     contador = 0
     potencia_2 = 2**contador

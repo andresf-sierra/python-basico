@@ -24,7 +24,7 @@ BIENVENIDO AL CONVERSOR DE MONEDAS
 1 - Pesos Colombianos
 2 - Pesos Mexicanos
 3 - Pesos Argentinos
-******************************
+****************************** 
 
 Elige tu moneda local: """
 
