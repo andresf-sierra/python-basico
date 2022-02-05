@@ -1,3 +1,9 @@
+"""
+Este pequeño programa funciona para calcular el índice de masa corporal
+de una persona ingresando su peso (Kg) y su altura (m). 
+Ambos datos puede ser ingresados cómo un dato de tipo flotante.
+"""
+
 def run():
 
     bmi = bmi_calculator()
